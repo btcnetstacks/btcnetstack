@@ -1,0 +1,29 @@
+.slider {
+  height: 187px;
+  width: 187px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slider .slide {
+  height: 187px;
+  width: 187x;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.slider .slide1 {
+  background: url('btc.png');
+  background-size: cover;
+}
+
+.slider .slide2 {
+  background: url('eth.png');
+  background-size: cover;
+}
+
+.slider .slide3 {
+  background: url('ltc.png');
+  background-size: cover;
+}
